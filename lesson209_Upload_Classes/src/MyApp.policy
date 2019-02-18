@@ -1,0 +1,14 @@
+grant {
+	permission java.io.FilePermission "/tmp/*", "read, write";
+	permission java.net.SocketPermission "*.hortsman.com:8000-8999", "connect";
+	permission java.util.PropertyPermission "os.name", "read";	
+};
+
+grant {
+    permission javax.security.auth.AuthPermission "createLoginContext.Login1";
+    permission javax.security.auth.AuthPermission "doAsPrivileged";
+};
+grant principal com.sun.security.auth.NTDomainPrincipal "Алексей" {
+    permission java.util.PropertyPermission "user.*", "read";
+    permission java.util.PropertyPermission "os.name", "read";
+};
