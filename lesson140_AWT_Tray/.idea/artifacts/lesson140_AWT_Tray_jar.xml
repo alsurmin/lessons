@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="lesson140_AWT_Tray:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lesson140_AWT_Tray_jar</output-path>
+    <root id="archive" name="lesson140_AWT_Tray.jar">
+      <element id="module-output" name="lesson140_AWT_Tray" />
+    </root>
+  </artifact>
+</component>
