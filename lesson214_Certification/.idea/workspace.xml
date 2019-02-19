@@ -67,408 +67,6 @@
       <change afterPath="$PROJECT_DIR$/../VolatileMain/out/production/VolatileMain/Main$MyThreadWrite.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../VolatileMain/out/production/VolatileMain/Main.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../VolatileMain/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson198_JDBC_16_transaction/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson198_JDBC_16_transaction/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson198_JDBC_16_transaction/.idea/dataSources/1f58f727-1876-4e78-a8c6-c6bc2a7a4f20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson198_JDBC_16_transaction/.idea/dataSources/1f58f727-1876-4e78-a8c6-c6bc2a7a4f20/storage_v2/_src_/schema/mydbtest.vP7x6w.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson198_JDBC_16_transaction/.idea/dataSources/1f58f727-1876-4e78-a8c6-c6bc2a7a4f20/storage_v2/_src_/schema/mydbtest.vP7x6w.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson198_JDBC_16_transaction/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson198_JDBC_16_transaction/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson198_JDBC_16_transaction/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson198_JDBC_16_transaction/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson198_JDBC_16_transaction/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson198_JDBC_16_transaction/lesson198_JDBC_16_transaction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson198_JDBC_16_transaction/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson199_JDBC_17_SQL_gruppoi/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson199_JDBC_17_SQL_gruppoi/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson199_JDBC_17_SQL_gruppoi/.idea/dataSources/8a5e116e-f058-4093-9ba2-331da4803eb9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson199_JDBC_17_SQL_gruppoi/.idea/dataSources/8a5e116e-f058-4093-9ba2-331da4803eb9/storage_v2/_src_/schema/mydbtest.vP7x6w.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson199_JDBC_17_SQL_gruppoi/.idea/dataSources/8a5e116e-f058-4093-9ba2-331da4803eb9/storage_v2/_src_/schema/mydbtest.vP7x6w.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson199_JDBC_17_SQL_gruppoi/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson199_JDBC_17_SQL_gruppoi/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson199_JDBC_17_SQL_gruppoi/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson199_JDBC_17_SQL_gruppoi/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson199_JDBC_17_SQL_gruppoi/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson199_JDBC_17_SQL_gruppoi/lesson199_JDBC_17_SQL_gruppoi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson199_JDBC_17_SQL_gruppoi/out/production/lesson199_JDBC_17_SQL_gruppoi/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson199_JDBC_17_SQL_gruppoi/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson200_JDBC_18_Yrovni_izolazii_tranzakcii/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson200_JDBC_18_Yrovni_izolazii_tranzakcii/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson200_JDBC_18_Yrovni_izolazii_tranzakcii/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson200_JDBC_18_Yrovni_izolazii_tranzakcii/.idea/dataSources/b481e127-fbe5-4d9e-882d-0c511eb4685d.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson200_JDBC_18_Yrovni_izolazii_tranzakcii/.idea/dataSources/b481e127-fbe5-4d9e-882d-0c511eb4685d/storage_v2/_src_/schema/mydbtest.vP7x6w.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson200_JDBC_18_Yrovni_izolazii_tranzakcii/.idea/dataSources/b481e127-fbe5-4d9e-882d-0c511eb4685d/storage_v2/_src_/schema/mydbtest.vP7x6w.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson200_JDBC_18_Yrovni_izolazii_tranzakcii/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson200_JDBC_18_Yrovni_izolazii_tranzakcii/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson200_JDBC_18_Yrovni_izolazii_tranzakcii/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson200_JDBC_18_Yrovni_izolazii_tranzakcii/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson200_JDBC_18_Yrovni_izolazii_tranzakcii/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson200_JDBC_18_Yrovni_izolazii_tranzakcii/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson200_JDBC_18_Yrovni_izolazii_tranzakcii/lesson200_JDBC_18_Yrovni_izolazii_tranzakcii.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson200_JDBC_18_Yrovni_izolazii_tranzakcii/out/production/lesson200_JDBC_18_Yrovni_izolazii_tranzakcii/Main$OtherTransaction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson200_JDBC_18_Yrovni_izolazii_tranzakcii/out/production/lesson200_JDBC_18_Yrovni_izolazii_tranzakcii/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson200_JDBC_18_Yrovni_izolazii_tranzakcii/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson201_JMX_server_side/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson201_JMX_server_side/.idea/dictionaries/.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson201_JMX_server_side/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson201_JMX_server_side/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson201_JMX_server_side/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson201_JMX_server_side/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson201_JMX_server_side/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson201_JMX_server_side/lesson201_JMX_server_side.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson201_JMX_server_side/out/production/lesson201_JMX_server_side/jmx/jmxlesson/Hello.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson201_JMX_server_side/out/production/lesson201_JMX_server_side/jmx/jmxlesson/HelloMBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson201_JMX_server_side/out/production/lesson201_JMX_server_side/jmx/jmxlesson/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson201_JMX_server_side/out/production/lesson201_JMX_server_side/jmx/jmxlesson/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson201_JMX_server_side/out/production/lesson201_JMX_server_side/jmx/jmxlesson/client/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson201_JMX_server_side/out/production/lesson201_JMX_server_side/jmx/jmxlesson/client/ClientListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson201_JMX_server_side/src/jmx/jmxlesson/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson201_JMX_server_side/src/jmx/jmxlesson/HelloMBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson201_JMX_server_side/src/jmx/jmxlesson/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson201_JMX_server_side/src/jmx/jmxlesson/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson201_JMX_server_side/src/jmx/jmxlesson/client/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson201_JMX_server_side/src/jmx/jmxlesson/client/ClientListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson204_Strings_compare/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson204_Strings_compare/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson204_Strings_compare/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson204_Strings_compare/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson204_Strings_compare/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson204_Strings_compare/lesson204_Strings_compare.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson204_Strings_compare/out/production/lesson204_Strings_compare/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson204_Strings_compare/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson205_Format_strings/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson205_Format_strings/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson205_Format_strings/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson205_Format_strings/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson205_Format_strings/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson205_Format_strings/lesson205_Format_strings.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson205_Format_strings/out/production/lesson205_Format_strings/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson205_Format_strings/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson206_locale/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson206_locale/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson206_locale/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson206_locale/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson206_locale/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson206_locale/lesson206_locale.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson206_locale/out/production/lesson206_locale/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson206_locale/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson207_Localization/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson207_Localization/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson207_Localization/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson207_Localization/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson207_Localization/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson207_Localization/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson207_Localization/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson207_Localization/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson207_Localization/lesson207_Localization.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson207_Localization/out/production/lesson207_Localization/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson207_Localization/out/production/lesson207_Localization/resources.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson207_Localization/out/production/lesson207_Localization/resources/resource.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson207_Localization/out/production/lesson207_Localization/resources/resource_de.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson207_Localization/out/production/lesson207_Localization/resources/resource_en.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson207_Localization/out/production/lesson207_Localization/resources/resource_fr.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson207_Localization/out/production/lesson207_Localization/resources_de.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson207_Localization/out/production/lesson207_Localization/resources_en.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson207_Localization/out/production/lesson207_Localization/resources_fr.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson207_Localization/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson207_Localization/src/resources.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson207_Localization/src/resources/resource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson207_Localization/src/resources/resource_de.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson207_Localization/src/resources/resource_en.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson207_Localization/src/resources/resource_fr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson207_Localization/src/resources_de.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson207_Localization/src/resources_en.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson207_Localization/src/resources_fr.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson71/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson71/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson71/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson71/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson71/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson71/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson71/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson71/lesson71.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson71/out/production/lesson71/Main$MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson71/out/production/lesson71/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson71/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson72/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson72/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson72/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson72/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson72/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson72/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson72/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson72/lesson72.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson72/out/production/lesson72/Main$1MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson72/out/production/lesson72/Main$NameList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson72/out/production/lesson72/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson72/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson73/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson73/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson73/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson73/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson73/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson73/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson73/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson73/lesson73.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson73/out/production/lesson73/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson73/out/production/lesson73/MyThread1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson73/out/production/lesson73/MyThread2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson73/out/production/lesson73/ResourceA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson73/out/production/lesson73/ResourceB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson73/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson74/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson74/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson74/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson74/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson74/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson74/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson74/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson74/lesson74.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson74/out/production/lesson74/Main$ThreadB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson74/out/production/lesson74/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson74/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson75/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson75/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson75/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson75/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson75/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson75/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson75/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson75/lesson75.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson75/out/production/lesson75/Main$Machine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson75/out/production/lesson75/Main$Operator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson75/out/production/lesson75/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson75/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson76/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson76/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson76/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson76/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson76/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson76/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson76/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson76/lesson76.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson76/out/production/lesson76/Main$MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson76/out/production/lesson76/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson76/out/production/lesson76/Resource.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson76/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson77/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson77/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson77/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson77/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson77/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson77/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson77/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson77/lesson77.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson77/out/production/lesson77/Main$Thread1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson77/out/production/lesson77/Main$Thread2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson77/out/production/lesson77/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson77/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson78/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson78/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson78/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson78/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson78/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson78/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson78/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson78/lesson78.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson78/out/production/lesson78/Main$AccountMinus.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson78/out/production/lesson78/Main$AccountPlus.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson78/out/production/lesson78/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson78/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson79/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson79/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson79/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson79/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson79/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson79/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson79/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson79/lesson79.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson79/out/production/lesson79/Main$MyCallable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson79/out/production/lesson79/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson79/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson80/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson80/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson80/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson80/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson80/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson80/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson80/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson80/lesson80.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson80/out/production/lesson80/Main$MyCallable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson80/out/production/lesson80/Main$MyRunable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson80/out/production/lesson80/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson80/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson81/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson81/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson81/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson81/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson81/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson81/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson81/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson81/lesson81.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson81/out/production/lesson81/Main$MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson81/out/production/lesson81/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson81/out/production/lesson81/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson81/out/production/lesson81/Sem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson81/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson81/src/Sem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson82/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson82/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson82/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson82/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson82/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson82/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson82/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson82/lesson82.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson82/out/production/lesson82/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson82/out/production/lesson82/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson82/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson83-CountDownLatch/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson83-CountDownLatch/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson83-CountDownLatch/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson83-CountDownLatch/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson83-CountDownLatch/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson83-CountDownLatch/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson83-CountDownLatch/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson83-CountDownLatch/lesson83-CountDownLatch.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson83-CountDownLatch/out/production/lesson83-CountDownLatch/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson83-CountDownLatch/out/production/lesson83-CountDownLatch/Work.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson83-CountDownLatch/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson84-Exchanger/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson84-Exchanger/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson84-Exchanger/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson84-Exchanger/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson84-Exchanger/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson84-Exchanger/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson84-Exchanger/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson84-Exchanger/lesson84-Exchanger.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson84-Exchanger/out/production/lesson84-Exchanger/Main$Anket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson84-Exchanger/out/production/lesson84-Exchanger/Main$Mike.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson84-Exchanger/out/production/lesson84-Exchanger/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson84-Exchanger/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson85-CyclicBarier/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson85-CyclicBarier/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson85-CyclicBarier/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson85-CyclicBarier/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson85-CyclicBarier/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson85-CyclicBarier/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson85-CyclicBarier/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson85-CyclicBarier/lesson85-CyclicBarier.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson85-CyclicBarier/out/production/lesson85-CyclicBarier/Main$Run.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson85-CyclicBarier/out/production/lesson85-CyclicBarier/Main$Sportsman.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson85-CyclicBarier/out/production/lesson85-CyclicBarier/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson85-CyclicBarier/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson86-Phaser/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson86-Phaser/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson86-Phaser/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson86-Phaser/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson86-Phaser/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson86-Phaser/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson86-Phaser/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson86-Phaser/lesson86-Phaser.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson86-Phaser/out/production/lesson86-Phaser/Main$Washer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson86-Phaser/out/production/lesson86-Phaser/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson86-Phaser/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson87-BlockingQueue/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson87-BlockingQueue/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson87-BlockingQueue/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson87-BlockingQueue/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson87-BlockingQueue/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson87-BlockingQueue/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson87-BlockingQueue/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson87-BlockingQueue/lesson87-BlockingQueue.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson87-BlockingQueue/out/production/lesson87-BlockingQueue/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson87-BlockingQueue/out/production/lesson87-BlockingQueue/Main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson87-BlockingQueue/out/production/lesson87-BlockingQueue/Main$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson87-BlockingQueue/out/production/lesson87-BlockingQueue/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson87-BlockingQueue/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson88-ThreadFactory/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson88-ThreadFactory/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson88-ThreadFactory/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson88-ThreadFactory/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson88-ThreadFactory/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson88-ThreadFactory/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson88-ThreadFactory/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson88-ThreadFactory/lesson88-ThreadFactory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson88-ThreadFactory/out/production/lesson88-ThreadFactory/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson88-ThreadFactory/out/production/lesson88-ThreadFactory/Main$MyRun.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson88-ThreadFactory/out/production/lesson88-ThreadFactory/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson88-ThreadFactory/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson89-Fork_Join_Framework/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson89-Fork_Join_Framework/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson89-Fork_Join_Framework/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson89-Fork_Join_Framework/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson89-Fork_Join_Framework/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson89-Fork_Join_Framework/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson89-Fork_Join_Framework/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson89-Fork_Join_Framework/lesson89-Fork_Join_Framework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson89-Fork_Join_Framework/out/production/lesson89-Fork_Join_Framework/Main$MyFork.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson89-Fork_Join_Framework/out/production/lesson89-Fork_Join_Framework/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson89-Fork_Join_Framework/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson90_ThreadLocalRandom_And_TimeUnit/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson90_ThreadLocalRandom_And_TimeUnit/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson90_ThreadLocalRandom_And_TimeUnit/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson90_ThreadLocalRandom_And_TimeUnit/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson90_ThreadLocalRandom_And_TimeUnit/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson90_ThreadLocalRandom_And_TimeUnit/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson90_ThreadLocalRandom_And_TimeUnit/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson90_ThreadLocalRandom_And_TimeUnit/lesson90_ThreadLocalRandom_And_TimeUnit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson90_ThreadLocalRandom_And_TimeUnit/out/production/lesson90_ThreadLocalRandom_And_TimeUnit/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson90_ThreadLocalRandom_And_TimeUnit/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson91_Dynamic_Proxy/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson91_Dynamic_Proxy/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson91_Dynamic_Proxy/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson91_Dynamic_Proxy/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson91_Dynamic_Proxy/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson91_Dynamic_Proxy/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson91_Dynamic_Proxy/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson91_Dynamic_Proxy/lesson91_Dynamic_Proxy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson91_Dynamic_Proxy/out/production/lesson91_Dynamic_Proxy/Main$MyProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson91_Dynamic_Proxy/out/production/lesson91_Dynamic_Proxy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson91_Dynamic_Proxy/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing/lesson96_Swing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing_HelloWorld/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing_HelloWorld/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing_HelloWorld/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing_HelloWorld/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing_HelloWorld/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing_HelloWorld/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing_HelloWorld/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing_HelloWorld/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing_HelloWorld/lesson96_Swing_HelloWorld.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing_HelloWorld/out/production/lesson96_Swing_HelloWorld/App$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing_HelloWorld/out/production/lesson96_Swing_HelloWorld/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing_HelloWorld/out/production/lesson96_Swing_HelloWorld/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing_HelloWorld/out/production/lesson96_Swing_HelloWorld/com/intellij/uiDesigner/core/AbstractLayout.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing_HelloWorld/out/production/lesson96_Swing_HelloWorld/com/intellij/uiDesigner/core/DimensionInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing_HelloWorld/out/production/lesson96_Swing_HelloWorld/com/intellij/uiDesigner/core/GridConstraints.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing_HelloWorld/out/production/lesson96_Swing_HelloWorld/com/intellij/uiDesigner/core/GridLayoutManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing_HelloWorld/out/production/lesson96_Swing_HelloWorld/com/intellij/uiDesigner/core/HorizontalInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing_HelloWorld/out/production/lesson96_Swing_HelloWorld/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing_HelloWorld/out/production/lesson96_Swing_HelloWorld/com/intellij/uiDesigner/core/Spacer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing_HelloWorld/out/production/lesson96_Swing_HelloWorld/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing_HelloWorld/out/production/lesson96_Swing_HelloWorld/com/intellij/uiDesigner/core/SupportCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing_HelloWorld/out/production/lesson96_Swing_HelloWorld/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing_HelloWorld/out/production/lesson96_Swing_HelloWorld/com/intellij/uiDesigner/core/VerticalInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing_HelloWorld/src/App.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing_HelloWorld/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_Swing_HelloWorld/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_swing_hello_world/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_swing_hello_world/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_swing_hello_world/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_swing_hello_world/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_swing_hello_world/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_swing_hello_world/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_swing_hello_world/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_swing_hello_world/img/java.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_swing_hello_world/lesson96_swing_hello_world.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_swing_hello_world/out/production/lesson96_swing_hello_world/Main$MyComponent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_swing_hello_world/out/production/lesson96_swing_hello_world/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson96_swing_hello_world/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lesson98_ActionListener/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lesson98_ActionListener/.idea/description.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lesson98_ActionListener/.idea/encodings.xml" afterDir="false" />
@@ -551,9 +149,6 @@
       <change afterPath="$PROJECT_DIR$/../multithreading1/out/production/multithreading1/VolitileMain.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../multithreading1/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../multithreading1/src/VolitileMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson208_Java_Beans/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson208_Java_Beans/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson208_Java_Beans/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson208_Java_Beans/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -574,7 +169,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="59" />
-          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="PLAIN_TEXT" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -686,7 +281,7 @@
       <option name="presentableId" value="Default" />
       <updated>1550520762234</updated>
       <workItem from="1550520770870" duration="3807000" />
-      <workItem from="1550597639885" duration="3518000" />
+      <workItem from="1550597639885" duration="4364000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1550600372000</created>
@@ -695,11 +290,39 @@
       <option name="project" value="LOCAL" />
       <updated>1550600372000</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit">
+      <created>1550604841428</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1550604841428</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit">
+      <created>1550605302538</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1550605302538</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit">
+      <created>1550605469632</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1550605469632</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit">
+      <created>1550605666081</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1550605666081</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7325000" />
+    <option name="totallyTimeSpent" value="8171000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
